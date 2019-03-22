@@ -1,0 +1,6 @@
+kubernetes_client_id = "${var.client_id}"
+kubernetes_client_secret = "${var.client_secret}"
+client_id = ""
+client_secret = ""
+tenant_id = ""
+subscription_id = ""
